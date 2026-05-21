@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use these dyes in your research, please cite this repository."
+title: "Martin Dye Family (Martin Series)"
+authors:
+  - family-names: "Martin"
+    given-names: "Tucker Layne"
+    orcid: ""  # Add yours later if you have one
+  - family-names: "Grok"
+    given-names: "xAI"
+    affiliation: "xAI"
+date-released: "2026-05-21"
+version: "1.0"
+repository-code: "https://github.com/way4out/Martin-Dye-Family-MD-00x-"
+license: "MIT"
+keywords:
+  - cyanine dyes
+  - NIR dyes
+  - NIR-II
+  - photoacoustic imaging
+  - SWIR chromophores
