@@ -1,37 +1,49 @@
 # Martin Dye Family (Martin Series)
 
 **Discovered by Tucker Layne Martin** (born April 6, 1995) in collaboration with Grok (xAI)  
-**Open-Science Release** — MIT License  
-**Repository**: https://github.com/way4out/Martin-Dye-Family  
-**Latest Update**: May 21, 2026
+**Open-Science Release** — May 21, 2026  
+**License**: MIT License (see [LICENSE](LICENSE))
 
-A family of **rigidified polymethine cyanine dyes** engineered for ultra-high performance in NIR to SWIR regions with exceptional photostability and tunable visible transparency.
+A family of **rigidified polymethine cyanine dyes** engineered for advanced NIR to SWIR applications with exceptional photostability and tunable visible transparency.
 
 ## The Martin Dye Family
 
-| Dye                    | Code       | Primary Window          | Visible Appearance          | Key Feature                     | Status    |
-|------------------------|------------|-------------------------|-----------------------------|---------------------------------|-----------|
-| Martinicyanine A      | MD-001    | NIR-I (780–850 nm)     | Dark green-black           | Foundational rigidified heptamethine | Released |
-| Martinirubine         | MD-002    | NIR-II (1050–1150 nm)  | Crimson → near-clear       | High brightness                 | Released |
-| Martinivoid-Ph        | MD-003 | NIR-IIb/III (1350–1700+ nm) | Near-transparent      | Photoacoustic champion          | Released |
-| AetherClear-4         | MD-004 | NIR-II enhanced        | Near-colorless (pale straw) | Ultra-stable clear filter dye   | Released |
-| **AetherVoid-5**      | **MD-005**| **Ultra-broad SWIR (900–2200+ nm)** | **Optically void (>99% transmittance)** | **Ultimate flagship** — superior in every metric | **New** |
+### Core Dyes
+| Dye                        | Code            | Primary Window                  | Visible Appearance                  | Key Feature                          |
+|---------------------------|-----------------|---------------------------------|-------------------------------------|--------------------------------------|
+| Martinicyanine A          | MD-001         | NIR-I (780–850 nm)             | Dark green-black                   | Foundational rigidified heptamethine |
+| Martinirubine             | MD-002         | NIR-II (1050–1150 nm)          | Crimson → near-clear               | Bright & deep penetration            |
+| Martinivoid-Ph            | MD-003-Ph      | NIR-IIb/III (1350–1700+ nm)    | Near-transparent                   | Photoacoustic champion               |
+| AetherClear-4             | MD-004         | NIR-II enhanced                | Near-colorless (pale straw)        | Ultra-stable clear filter            |
+| **AetherVoid-5**          | **MD-005**     | Ultra-broad SWIR (900–2200+ nm)| **Water-clear (>99%)**             | **Ultimate flagship**                |
 
-**AetherVoid-5** is the new pinnacle: water-clear in visible light, near-infinite photostability, broadest/deepest IR performance, and easiest synthesis of the entire family.
+### Shelf-Stable "S" Series (Room Temperature Stable)
+All core dyes now have **S-variants** designed for easy **room-temperature storage** (15–25°C, 12+ months) while preserving full optical performance.
 
-Full details: [AetherVoid-5.md](AetherVoid-5.md)
-
-#
+| Dye                        | Code              | Storage                     | Key Upgrade                     |
+|---------------------------|-------------------|-----------------------------|---------------------------------|
+| Martinicyanine A-S        | MD-001S          | Room temp                  | Antioxidant shielding          |
+| Martinirubine-S           | MD-002S          | Room temp                  | Thiophene + crystalline form   |
+| Martinivoid-Ph-S          | MD-003-Ph-S      | Room temp                  | Enhanced radical cage          |
+| AetherClear-4S            | MD-004S          | Room temp                  | PEG shielding                  |
+| **AetherVoid-5S**         | **MD-005S**      | **Room temp**              | **Ultimate shelf-stable flagship** |
 
 ## Repository Contents
-- Complete laboratory synthesis protocols (see `SYNTHESIS.md`)
-- Citation and open-science information
+- Individual `.md` files with full synthesis protocols, properties, SMILES, InChI, and MOL files for every dye and S-variant.
+- Structures & characterization data
+- Optimized high-purity protocols
 
-## Open Science & Usage
-These dyes are released as public knowledge. Researchers worldwide are encouraged to synthesize, characterize, study, and publish results using them. Proper attribution to **Tucker Layne Martin** as the discoverer is requested.
+## Quick Links
+- [Martinicyanine A-S](Martinicyanine-A-S.md)
+- [Martinirubine-S](Martinirubine-S.md)
+- [Martinivoid-Ph-S](Martinivoid-Ph-S.md)
+- [AetherClear-4S](AetherClear-4S.md)
+- [AetherVoid-5S](AetherVoid-5S.md) ← **Flagship**
 
----
+## License & Attribution
+MIT License — Free to use, modify, synthesize, and commercialize.  
+**Please attribute to Tucker Layne Martin** and link back to this repository.
 
-**Citation**  
-Martin, T. L.; Grok (xAI). Martin Dye Family. GitHub Repository, May 2026.  
-https://github.com/way4out/Martin-Dye-Family-MD-00x-
+Contributions, improvements, and publications based on these dyes are welcome!
+
+-
