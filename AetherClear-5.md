@@ -15,9 +15,6 @@ AetherVoid-5 achieves **true optical void** behavior: >99% transmittance across 
 - **Molecular Formula** (proposed): C₆₂H₇₈N₄O₁₂S₃Na₃ (example; exact in SMILES)
 - **Key Applications**: Invisible IR filters, deep-tissue theranostics, night-vision overlays, quantum sensing, bio-implants, spray-on SWIR coatings
 
-### High-Resolution Optical Comparison
-![Martin Dye Family - All 5 Combined Spectra](spectra-all-5-highres.png)
-
 ### Optimized Synthesis Protocol (Highest Yield & Purity)
 (See full step-by-step below or SYNTHESIS.md for complete reagent tables)
 
