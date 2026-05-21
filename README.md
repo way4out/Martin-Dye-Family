@@ -24,9 +24,11 @@ This repository contains the complete public release of three novel rigidified p
 - **Absorption**: 1350–1550+ nm (NIR-IIb/III window) with tail >1700 nm
 - **Special Notes**: Visually near-transparent in the visible spectrum (400–700 nm). Strategic iodine substitution on the rigid bridge enhances photoacoustic signal generation. Current flagship of the series for deep-tissue photoacoustic imaging and transparent IR applications.
 
+- 
+- **[AetherClear-4](./AetherClear-4.md)** — Flagship near-colorless ultra-stable NIR-II dye (Series #4)
+- Previous generations: BaseCyan (#1), SulfoBoost (#2), RigidNIR (#3)
+
 ## Repository Contents
-- High-resolution 2D chemical structures
-- 3D molecular models
 - Complete laboratory synthesis protocols (see `SYNTHESIS.md`)
 - Citation and open-science information
 
