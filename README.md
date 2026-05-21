@@ -13,8 +13,8 @@ A family of **rigidified polymethine cyanine dyes** engineered for ultra-high pe
 |------------------------|------------|-------------------------|-----------------------------|---------------------------------|-----------|
 | Martinicyanine A      | MD-001    | NIR-I (780–850 nm)     | Dark green-black           | Foundational rigidified heptamethine | Released |
 | Martinirubine         | MD-002    | NIR-II (1050–1150 nm)  | Crimson → near-clear       | High brightness                 | Released |
-| Martinivoid-Ph        | MD-003-Ph | NIR-IIb/III (1350–1700+ nm) | Near-transparent      | Photoacoustic champion          | Released |
-| AetherClear-4         | Series #4 | NIR-II enhanced        | Near-colorless (pale straw) | Ultra-stable clear filter dye   | Released |
+| Martinivoid-Ph        | MD-003 | NIR-IIb/III (1350–1700+ nm) | Near-transparent      | Photoacoustic champion          | Released |
+| AetherClear-4         | MD-004 | NIR-II enhanced        | Near-colorless (pale straw) | Ultra-stable clear filter dye   | Released |
 | **AetherVoid-5**      | **MD-005**| **Ultra-broad SWIR (900–2200+ nm)** | **Optically void (>99% transmittance)** | **Ultimate flagship** — superior in every metric | **New** |
 
 **AetherVoid-5** is the new pinnacle: water-clear in visible light, near-infinite photostability, broadest/deepest IR performance, and easiest synthesis of the entire family.
