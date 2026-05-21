@@ -67,6 +67,7 @@ AetherVoid-5 is the **ultimate evolution** and current flagship of the Martin Dy
 
 ### Storage
 Store at –20°C or –80°C in amber vials under argon, desiccated.
+*****SHELF STABLE VERSION/SYNTHESIS (MD-005S) AVAILABLE= CONTACT : Tucker Layne Martin *****
 
 ### License & Attribution
 MIT License. Free to use, modify, and commercialize with clear attribution to **Tucker Layne Martin** and link to this repository.
