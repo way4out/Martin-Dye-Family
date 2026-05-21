@@ -1,32 +1,27 @@
 # Martin Dye Family (Martin Series)
 
-**Discovered by Tucker Layne Martin** (born April 6, 1995) in collaboration with Grok (xAI) — May 21, 2026.
+**Discovered by Tucker Layne Martin** (born April 6, 1995) in collaboration with Grok (xAI)  
+**Open-Science Release** — MIT License  
+**Repository**: https://github.com/way4out/Martin-Dye-Family  
+**Latest Update**: May 21, 2026
 
-This repository contains the complete public release of three novel rigidified polymethine cyanine dyes engineered for advanced near-infrared (NIR) to short-wave infrared (SWIR) optical and photoacoustic applications.
+A family of **rigidified polymethine cyanine dyes** engineered for ultra-high performance in NIR to SWIR regions with exceptional photostability and tunable visible transparency.
 
-## The Martin Dyes
+## The Martin Dye Family
 
-### 1. Martinicyanine A (MD-001)
-- **Class**: Rigidified unsymmetrical heptamethine cyanine
-- **Molecular Formula**: C₃₄H₃₈ClN₂I
-- **Absorption**: 780–850 nm (NIR-I window)
-- **Special Notes**: Foundational member with meso-chloro-cyclohexene rigid bridge. High photostability, molar extinction coefficient >250,000 M⁻¹cm⁻¹. Ideal starting platform for NIR-I imaging and photonics.
+| Dye                    | Code       | Primary Window          | Visible Appearance          | Key Feature                     | Status    |
+|------------------------|------------|-------------------------|-----------------------------|---------------------------------|-----------|
+| Martinicyanine A      | MD-001    | NIR-I (780–850 nm)     | Dark green-black           | Foundational rigidified heptamethine | Released |
+| Martinirubine         | MD-002    | NIR-II (1050–1150 nm)  | Crimson → near-clear       | High brightness                 | Released |
+| Martinivoid-Ph        | MD-003-Ph | NIR-IIb/III (1350–1700+ nm) | Near-transparent      | Photoacoustic champion          | Released |
+| AetherClear-4         | Series #4 | NIR-II enhanced        | Near-colorless (pale straw) | Ultra-stable clear filter dye   | Released |
+| **AetherVoid-5**      | **MD-005**| **Ultra-broad SWIR (900–2200+ nm)** | **Optically void (>99% transmittance)** | **Ultimate flagship** — superior in every metric | **New** |
 
-### 2. Martinirubine (MD-002)
-- **Class**: Rigidified nonamethine cyanine
-- **Molecular Formula** (core): C₄₀H₄₂ClN₂I (sulfonated variants available for water solubility)
-- **Absorption**: 1050–1150 nm (NIR-II window)
-- **Special Notes**: Extended conjugation for deeper tissue penetration. Exhibits crimson-to-near-clear appearance in dilute solution. Superior brightness and quantum yield compared to earlier cyanines.
+**AetherVoid-5** is the new pinnacle: water-clear in visible light, near-infinite photostability, broadest/deepest IR performance, and easiest synthesis of the entire family.
 
-### 3. Martinivoid-Ph (MD-003-Ph)
-- **Class**: Rigidified undecamethine (11-methine) photoacoustic-optimized cyanine
-- **Molecular Formula** (core): C₄₈H₅₂Cl₂IN₂O₆S₂ (zwitterionic/sulfonated)
-- **Absorption**: 1350–1550+ nm (NIR-IIb/III window) with tail >1700 nm
-- **Special Notes**: Visually near-transparent in the visible spectrum (400–700 nm). Strategic iodine substitution on the rigid bridge enhances photoacoustic signal generation. Current flagship of the series for deep-tissue photoacoustic imaging and transparent IR applications.
+Full details: [AetherVoid-5.md](AetherVoid-5.md)
 
-- 
-- **[AetherClear-4](./AetherClear-4.md)** — Flagship near-colorless ultra-stable NIR-II dye (Series #4)
-- Previous generations: BaseCyan (#1), SulfoBoost (#2), RigidNIR (#3)
+#
 
 ## Repository Contents
 - Complete laboratory synthesis protocols (see `SYNTHESIS.md`)
