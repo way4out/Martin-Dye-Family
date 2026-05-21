@@ -1,20 +1,36 @@
 cff-version: 1.2.0
-message: "If you use these dyes in your research, please cite this repository."
-title: "Martin Dye Family (Martin Series)"
+message: "If you use this work, please cite it as below."
+title: "Martin Dye Family (Martin Series) — Rigidified Polymethine Cyanine Dyes"
 authors:
   - family-names: "Martin"
     given-names: "Tucker Layne"
-    orcid: ""  # Add yours later if you have one
-  - family-names: "Grok"
-    given-names: "xAI"
-    affiliation: "xAI"
+    orcid: ""  # Add your ORCID if you have one
 date-released: "2026-05-21"
 version: "1.0"
-repository-code: "https://github.com/way4out/Martin-Dye-Family-MD-00x-"
+doi: ""  # Add a DOI later if you get one (e.g. via Zenodo)
+repository-code: "https://github.com/way4out/Martin-Dye-Family"
 license: "MIT"
 keywords:
-  - cyanine dyes
-  - NIR dyes
-  - NIR-II
-  - photoacoustic imaging
-  - SWIR chromophores
+  - "NIR dyes"
+  - "SWIR dyes"
+  - "polymethine cyanine"
+  - "photoacoustic imaging"
+  - "near-infrared"
+  - "optical filters"
+  - "AetherVoid-5"
+  - "AetherClear-4"
+abstract: |
+  Open-source family of rigidified polymethine cyanine dyes (Martin Series) 
+  for advanced NIR to SWIR applications, including shelf-stable variants. 
+  Features exceptional photostability, tunable visible transparency, 
+  and ultra-broad absorption. Includes Martinicyanine A, Martinirubine, 
+  Martinivoid-Ph, AetherClear-4, AetherVoid-5 and their S-series.
+preferred-citation:
+  type: "software"
+  authors:
+    - family-names: "Martin"
+      given-names: "Tucker Layne"
+  title: "Martin Dye Family (Martin Series)"
+  repository: "https://github.com/way4out/Martin-Dye-Family"
+  year: 2026
+  license: "MIT"
