@@ -66,7 +66,7 @@ AetherVoid-5S is the **ultimate shelf-stable flagship** of the Martin Dye Family
 ### Structures & Data
 - **SMILES**: CN1C2=CC=CC=C2C(C)(C)C1=CC=CC=CC=CC=CC=CC=CC=CC=C3C(C)(C)c4ccccc4N3CCCS(=O)(=O)[O-].[Na+]
 - **InChI**: InChI=1S/C52H62N2O3S.Na/c1-49(2)39-21-13-17-25-41(39)51(7)43(49)31-9-5-3-4-6-8-10-32-44-50(3,4)42-26-18-14-22-40(42)52(44)33-19-23-27-45(34-28-29-30-46(35-20-16-12-11-37(35)53)47(54)55)48(56)57;/h3-32H,33-34H2,1-7H3,(H,54,55,56,57);/q;+1/p-1
-- **MOL file**: (AetherVoid-5S.mol)
+- **MOL file**: (./AetherVoid-5S.mol)
 
 ### License & Attribution
 MIT License. Free to use, modify, and commercialize with clear attribution to **Tucker Layne Martin** and link to this repository.
