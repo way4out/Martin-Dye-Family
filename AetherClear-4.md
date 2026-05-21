@@ -1,56 +1,51 @@
-# AetherClear-4: The Kilner Killer
+# AetherClear-4
 
 **Martin Family Dyes — Series #4**
 
-AetherClear-4 represents the pinnacle of our progressive dye lineage: a near-colorless, ultra-photostable NIR-II hybrid fluorophore engineered to eliminate every limitation of historical dicyanin and conventional cyanine dyes. It delivers exceptional subtle energy and biofield visualization with zero eye strain, full day/night usability, and virtually no photodegradation.
+AetherClear-4 is the flagship dye of the Martin Family Dyes project: a near-colorless, ultra-photostable NIR-II hybrid fluorophore. It advances beyond traditional cyanine dyes by providing exceptional optical clarity, minimal eye strain, and superior long-term stability for subtle energy and biofield visualization research.
 
 ## Technical Specifications
 
-- **Optical Profile**: Near-colorless to pale straw tint in dilute solution or thin films (>90–95% transmittance across the visible spectrum).  
-- **Spectral Performance**: Selective high transmission in the NIR-II window (700–1100+ nm) with subtle short-UV edge enhancement for dynamic contrast of living systems.  
-- **Photostability**: Exceptional — antiaromatic reversal mechanism provides self-healing behavior, retaining >95% performance under prolonged intense illumination.  
-- **Biocompatibility & Usability**: Low toxicity profile with sulfonate/PEG solubilization; ideal for optical filters, goggles, thin films, and experimental imaging setups.  
-- **Key Advantage**: Enables clear, fatigue-free observation of dynamic energy fields, bioelectric emissions, and thermal gradients while preserving natural color vision.
+- **Optical Profile**: Near-colorless to pale straw in dilute solution or thin films, with >90–95% transmittance across the visible spectrum.  
+- **Spectral Performance**: Selective enhancement in the NIR-II region (700–1100+ nm) with subtle short-UV edge support for improved contrast of living systems.  
+- **Photostability**: Outstanding — antiaromatic reversal mechanism enables self-healing behavior and >95% performance retention under prolonged illumination.  
+- **Solubility & Compatibility**: Sulfonate/PEG-functionalized for aqueous compatibility and low toxicity profile. Suitable for optical filters, goggles, thin films, and experimental setups.  
+- **Primary Advantage**: Enables clear, fatigue-free observation while preserving natural color vision.
 
-## Molecular Design & Mechanism
+## Molecular Design
 
-AetherClear-4 is a hybrid architecture merging an aminofluorene antiaromatic donor core with a rigidified heptamethine/nonamethine polymethine bridge and a tuned acceptor system that achieves near-neutral merocyanine character.
+AetherClear-4 employs a hybrid architecture: an aminofluorene antiaromatic donor core integrated with a rigidified heptamethine/nonamethine polymethine bridge and a tuned acceptor system yielding near-neutral merocyanine character.
 
-This design yields:
-- Minimal visible-range absorption for transparency.
-- High molar extinction coefficient and quantum yield in the NIR-II region.
-- Antiaromatic-to-aromatic switching upon excitation, enabling ultrafast relaxation and intrinsic photoprotection.
+**Approximate SMILES** (for computational tools):
 
-**Approximate SMILES** (for computational validation):
+## Synthesis Protocol
 
-## Complete Synthesis Protocol
+1. **Core Preparation** — Buchwald-Hartwig amination of 2,7-dibromofluorenone with appropriate amines (Pd catalysis, toluene, 100°C).  
+2. **Intermediate Formation** — Organolithium addition at –78°C followed by acid quench.  
+3. **Bridge Assembly** — Condensation with cyclohexene-bridged bis-aldehyde and phosphonium salts (piperidine/ethanol).  
+4. **Final Functionalization** — Installation of sulfonate/PEG groups, HPLC purification, and counterion adjustment for optical neutrality.
 
-1. **Core Synthesis** — Buchwald-Hartwig amination of 2,7-dibromofluorenone with appropriate amines under palladium catalysis (toluene, 100°C, 53–86% yield).  
-2. **Cation Formation** — Organolithium addition at –78°C followed by acid quench (HClO₄ or TFA).  
-3. **Polymethine Extension** — Knoevenagel-style condensation with cyclohexene-bridged bis-aldehyde and phosphonium salts (piperidine/ethanol).  
-4. **Solubilization & Tuning** — Installation of sulfonate or PEG chains, HPLC purification, and counterion exchange to achieve optical neutrality.
+**Recommended Concentration**: 0.01–0.1% w/v in ethanol/water for clear filters.  
+**Typical Yield**: 36–79% after optimization.
 
-**Recommended Working Concentration**: 0.01–0.1% w/v in ethanol/water for clear optical filters.  
-**Typical Overall Yield**: 36–79% after optimization.
+## Performance Overview — Martin Family Series
 
-## Performance Comparison — Martin Family Series
-
-| Series       | Tint          | Eye Strain | Photostability | Visible Clarity | Day/Night Compatibility |
-|--------------|---------------|------------|----------------|-----------------|-------------------------|
-| Dicyanin (Historical) | Deep Blue | Severe     | Poor           | Low             | Night only              |
-| #1 BaseCyan  | Intense Blue  | High       | Low            | Low             | Limited                 |
-| #2 SulfoBoost| Blue          | Medium     | Medium         | Medium          | Improved                |
-| #3 RigidNIR  | Reddish       | Low        | Good           | Good            | Good                    |
-| **#4 AetherClear** | **Near Clear** | **None**   | **Extreme**    | **Excellent**   | **Optimal**             |
+| Series       | Tint            | Eye Strain | Photostability | Visible Clarity | Day/Night Use     |
+|--------------|-----------------|------------|----------------|-----------------|-------------------|
+| Historical Dicyanin | Deep Blue   | Severe     | Poor           | Low             | Night only        |
+| #1 BaseCyan  | Intense Blue    | High       | Low            | Low             | Limited           |
+| #2 SulfoBoost| Blue            | Medium     | Medium         | Medium          | Improved          |
+| #3 RigidNIR  | Reddish         | Low        | Good           | Good            | Good              |
+| **#4 AetherClear** | **Near Clear** | **None**   | **Extreme**    | **Excellent**   | **Optimal**       |
 
 ## Practical Implementation
 
-Dissolve the purified dye in ethanol/water and sandwich between optical-grade glass or quartz substrates. Seal edges for longevity. Validate performance using a spectrometer and NIR illumination source. The resulting filters maintain clarity and function indefinitely under normal use.
+Prepare dilute dye solution in ethanol/water and sandwich between optical glass or quartz substrates. Seal for durability. Characterize using UV-Vis/NIR spectroscopy and appropriate light sources.
 
-## Safety & Responsible Use
+## Safety & Research Use
 
-AetherClear-4 is an experimental compound developed within the Martin Family Dyes research lineage. Synthesis and handling require standard organic chemistry laboratory infrastructure, fume hood, appropriate PPE, and proper chemical waste protocols. Precursors and intermediates should be treated with standard laboratory caution. This material is provided for research and educational purposes only.
+AetherClear-4 is an experimental compound. Synthesis and handling require standard organic chemistry laboratory practices, including fume hood, PPE, and proper waste disposal. This material is provided for research and educational purposes only.
 
 ---
 
-**Martin Family Dyes Repository** — Advancing optical tools for subtle energy research.
+**Martin Family Dyes** — Systematic development of advanced optical dyes.
