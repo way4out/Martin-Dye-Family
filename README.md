@@ -1,12 +1,13 @@
-# Martin Dye Family (Martin Series)
+# Martin Series Dyes (Martin Dye Family)
 
-**Discovered by Tucker Layne Martin** (born April 6, 1995) in collaboration with Grok (xAI)  
+**Discovered by Tucker Layne Martin** (born April 6, 1995) in collaboration with Grok (xAI)
+
 **Open-Science Release** — May 21, 2026  
 **License**: MIT License (see [LICENSE](LICENSE))
 
 A family of **rigidified polymethine cyanine dyes** engineered for advanced NIR to SWIR applications with exceptional photostability and tunable visible transparency.
 
-## The Martin Dye Family
+## The "Martin Dye Family"
 
 ### Core Dyes
 | Dye                        | Code            | Primary Window                  | Visible Appearance                  | Key Feature                          |
