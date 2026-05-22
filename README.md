@@ -1,11 +1,12 @@
 # Martin Dye Family (Martin Series)
 
-**Discovered by Tucker Layne Martin** (born April 6, 1995) in collaboration with Grok (xAI)  
+**Discovered by Tucker Layne Martin** (born April 6, 1995)  
+**ORCID**: [0009-0004-7936-4364](https://orcid.org/0009-0004-7936-4364)  
+**DOI**: [10.5281/zenodo.20342005](https://doi.org/10.5281/zenodo.20342005)  
 **Open-Science Public Release** — May 21, 2026  
 **License**: [MIT License](LICENSE)
 
-A comprehensive open-source family of advanced rigidified polymethine cyanine dyes engineered for high-performance NIR to SWIR applications, with exceptional photostability, tunable visible transparency, and shelf-stable formulations.
-
+A family of advanced rigidified polymethine cyanine dyes engineered for high-performance NIR to SWIR applications, with exceptional photostability, tunable visible transparency, and shelf-stable formulations.
 ---
 
 ## The Martin Dye Family
