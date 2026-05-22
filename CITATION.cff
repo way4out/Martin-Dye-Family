@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Martin Dye Family (Martin Series) — Rigidified Polymethine Cyanine Dyes"
+authors:
+  - family-names: "Martin"
+    given-names: "Tucker Layne"
+    orcid: "0009-0004-7936-4364"
+date-released: "2026-05-21"
+version: "1.0"
+doi: "10.5281/zenodo.20342005"
+repository-code: "https://github.com/way4out/Martin-Dye-Family"
+license: "MIT"
+keywords:
+  - "NIR dyes"
+  - "SWIR dyes"
+  - "polymethine cyanine"
+  - "photoacoustic imaging"
+  - "optical filters"
+  - "Tucyanin-F(S)"
+  - "open-science"
+abstract: |
+  Open-source family of advanced rigidified polymethine cyanine dyes for NIR to SWIR applications, including shelf-stable S-series and Tucyanin-F(S), the apex vision dye.
+preferred-citation:
+  type: "software"
+  authors:
+    - family-names: "Martin"
+      given-names: "Tucker Layne"
+      orcid: "0009-0004-7936-4364"
+  title: "Martin Dye Family (Martin Series)"
+  doi: "10.5281/zenodo.20342005"
+  repository: "https://github.com/way4out/Martin-Dye-Family"
+  year: 2026
+  license: "MIT"
