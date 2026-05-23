@@ -3,57 +3,54 @@
 **Discovered by Tucker Layne Martin** (born April 6, 1995)  
 **ORCID**: [0009-0004-7936-4364](https://orcid.org/0009-0004-7936-4364)  
 **DOI**: [10.5281/zenodo.20342005](https://doi.org/10.5281/zenodo.20342005)  
-**Open-Science Public Release** — May 21, 2026  
+**Release Date**: May 21, 2026  
 **License**: [MIT License](LICENSE)
 
-A family of advanced rigidified polymethine cyanine dyes engineered for high-performance NIR to SWIR applications, with exceptional photostability, tunable visible transparency, and shelf-stable formulations.
----
+Open-source family of advanced rigidified polymethine cyanine dyes engineered for high-performance NIR to SWIR applications. The series features exceptional photostability, tunable visible transparency, and shelf-stable S-series formulations.
 
-## The Martin Dye Family
+## The Martin Series Dyes
 
-### Core Dyes
+| Code          | Name                    | Type                          | Key Feature                              | Visible Transparency |
+|---------------|-------------------------|-------------------------------|------------------------------------------|----------------------|
+| MD-001S      | Martinicyanine A-S     | Rigidified Heptamethine      | Reliable NIR-I foundation               | Moderate            |
+| MD-002S      | Martinirubine-S        | Rigidified Nonamethine       | Deep NIR-II performer                   | Low                 |
+| MD-003S      | Martinivoid-Ph-S       | Rigidified Undecamethine     | Strong photoacoustic response           | Low-Moderate        |
+| MD-004S      | AetherClear-4S         | Rigidified Hybrid            | Near-colorless NIR-II filter            | High                |
+| MD-005S      | AetherVoid-5S          | Rigidified Dodecamethine     | Water-clear SWIR powerhouse             | Very High           |
+| MD-006S      | Tucyanin-F(S)          | Apex Vision Dye              | Optically void with expanded perception | >99.7%              |
+| **MD-007**   | **AetherGenesis-7**    | **Adaptive Supramolecular**  | **Next-generation adaptive platform**   | **>99.8–99.9%**     |
 
-| Dye                        | Code              | Primary Window                  | Visible Appearance                  | Key Characteristics & Applications |
-|---------------------------|-------------------|---------------------------------|-------------------------------------|------------------------------------|
-| **Martinicyanine A**      | MD-001           | NIR-I (780–850 nm)             | Dark green-black                   | Foundational rigidified heptamethine cyanine. Ideal for standard NIR imaging, photonics, and sensors. [Full Details](Martinicyanine-A-S.md) |
-| **Martinirubine**         | MD-002           | NIR-II (1050–1150 nm)          | Crimson → near-clear               | Bright, high quantum yield NIR-II dye. Excellent for deep-tissue fluorescence imaging and security applications. [Full Details](Martinirubine-S.md) |
-| **Martinivoid-Ph**        | MD-003-Ph        | NIR-IIb/III (1350–1700+ nm)    | Near-transparent                   | Optimized for deep photoacoustic imaging and maximum tissue penetration. [Full Details](Martinivoid-Ph-S.md) |
-| **AetherClear-4**         | MD-004           | NIR-II enhanced                | Near-colorless (pale straw)        | Ultra-stable clear optical filters with minimal eye strain. [Full Details](AetherClear-4S.md) |
-| **AetherVoid-5**          | MD-005           | Ultra-broad SWIR (900–2200+ nm)| Water-clear (>99%)                 | Exceptional passive clarity with powerful SWIR absorption. [Full Details](AetherVoid-5S.md) |
-| **Tucyanin-F(S)**         | **MD-006**       | Full extended spectrum         | **Optically void (>99.7%)**        | Most advanced single-molecule dye. Delivers perfect natural vision plus expanded perception of thermal, bio-electromagnetic, and chemical layers. [Full Details](Tucyanin-F(S).md) |
+## AetherGenesis-7 (MD-007) — Flagship
 
-### Shelf-Stable S-Series
-All dyes are available in **S-variants**, optimized for convenient **room-temperature storage** (15–25°C, 12–36+ months) with maintained optical performance and improved practicality for real-world use.
+The most advanced dye in the series. A single fixed supramolecular hybrid cyanine designed to outperform Tucyanin-F(S) with superior visible transparency, broader adaptive SWIR response, enhanced self-stabilization, and excellent room-temperature shelf stability.
 
-## Repository Features
-- Complete synthesis protocols with high-purity methods
-- SMILES, InChI, and MOL files for every dye
-- Shelf-stable formulations (S-Series)
-- Characterization data and safety notes
-- [CITATION.cff](CITATION.cff) for academic referencing
+**[Full Documentation → AetherGenesis-7.md](AetherGenesis-7.md)**
 
-## Quick Access Links
-- [Tucyanin-F(S).md](Tucyanin-F(S).md) — Most advanced dye
-- [AetherVoid-5S.md](AetherVoid-5S.md)
-- [AetherClear-4S.md](AetherClear-4S.md)
-- [Martinivoid-Ph-S.md](Martinivoid-Ph-S.md)
-- [Martinirubine-S.md](Martinirubine-S.md)
-- [Martinicyanine-A-S.md](Martinicyanine-A-S.md)
+## Features of the Martin Series
 
-## License & Attribution
-This project is released under the **MIT License**.  
-Free to use, modify, and commercialize.  
-**Please provide attribution to Tucker Layne Martin** and link back to this repository when using or publishing work based on these dyes.
+- Rigidified polymethine structures for high photostability
+- Shelf-stable S-series formulations (room temperature, 12–48+ months)
+- Tunable visible transparency (from strongly colored to near-perfect optical void)
+- Broad NIR to SWIR coverage
+- Open-source synthesis protocols with SMILES, InChI, and MOL files
 
----
+## Links
 
-**Contributions**  
-Improvements to synthesis, new applications, characterization data, and derivative works are welcome. Please open an Issue or Pull Request.
+- **GitHub Repository**: [https://github.com/way4out/Martin-Dye-Family](https://github.com/way4out/Martin-Dye-Family)
+- **Zenodo Archive**: [https://doi.org/10.5281/zenodo.20342005](https://doi.org/10.5281/zenodo.20342005)
+- **Website**: [cyanine-lab.emergent.host/dicyanin](https://cyanine-lab.emergent.host/dicyanin)
 
-**Disclaimer**  
-These dyes are provided for research and educational purposes. Users are responsible for complying with all local regulations regarding chemical synthesis, handling, and applications.
+## Contributing
 
----
+See [CONTRIBUTING.md](CONTRIBUTING.md)
 
-**Repository**:
-(https://github.com/way4out/Martin-Dye-Family)
+## Citation
+
+```bibtex
+@software{martin2026martindye,
+  author = {Martin, Tucker Layne},
+  title = {Martin Dye Family (Martin Series)},
+  year = 2026,
+  doi = {10.5281/zenodo.20342005},
+  url = {https://doi.org/10.5281/zenodo.20342005}
+}
