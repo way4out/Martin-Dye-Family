@@ -11,8 +11,7 @@ The Martin Series represents a rigorous, iterative advancement in quinoline-base
 ## Table of Contents
 1. [Martinicyanine A](#martinicyanine-a-generation-1)  
 2. [Safety Protocols](#safety-protocols)  
-3. [ORCID Documentation](#orcid-documentation)  
-4. [Future Generations](#future-generations)
+3. [Future Generations](#future-generations)
 
 ---
 
@@ -81,14 +80,6 @@ Precursors are accessible via standard quinoline synthesis (e.g., from p-pheneti
 
 **Comprehensive Martin Series Safety Disclaimer**:  
 All dyes in the series are experimental. Not for human use. Early generations carry elevated toxicity profiles. Advanced generations (e.g., AetherGenesis-7) require continued safety validation.
-
----
-
-## ORCID Documentation Recommendation
-
-Use "Add work manually":  
-**Title**: Synthesis and Optical Properties of Martinicyanine A: Foundation of the Martin Series Cyanine Dyes for Advanced Spectral Imaging  
-**Abstract**: Detailed entry mirroring this document.
 
 ---
 
