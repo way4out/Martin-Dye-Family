@@ -1,8 +1,8 @@
 # Martin Series Cyanine Dyes: A Canonical Progression in Spectral Engineering
 
 **Version 1.0** | **Date**: May 23, 2026  
-**Principal Investigator / Curator**: [Your Name]  
-**ORCID Integration**: Pending manual entry (see below)
+**Principal Investigator / Curator**:[Tucker Layne Martin]  
+**ORCID : 0009-0004-7936-4364
 
 ## Abstract
 
